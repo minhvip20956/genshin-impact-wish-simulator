@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Lost Prayer to the Sacred Winds",
+    "rating": 5,
+    "type": "weapon",
+    "class": "Catalyst",
+    "isFeatured": true,
+    "src": "lost-prayer-to-the-sacred-winds.png"
+  },
+  {
+    "name": "Wolf's Gravestone",
+    "rating": 5,
+    "type": "weapon",
+    "class": "Claymore",
+    "isFeatured": true,
+    "src": "wolfs-gravestone.png"
+  },
+  {
+    "name": "Amos Bow",
+    "rating": 5,
+    "type": "weapon",
+    "class": "Bow",
+    "src": "amos-bow.png"
+  },
+  {
+    "name": "Skyward Harp",
+    "rating": 5,
+    "type": "weapon",
+    "class": "Bow",
+    "src": "skyward-harp.png"
+  },
+  {
+    "name": "Skyward Atlas",
+    "rating": 5,
+    "type": "weapon",
+    "class": "Catalyst",
+    "src": "skyward-atlas.png"
+  },
+  {
+    "name": "Primordial Jade Winged-Spear",
+    "rating": 5,
+    "type": "weapon",
+    "class": "Polearm",
+    "src": "primordial-jade-winged-spear.png"
+  },
+  {
+    "name": "Skyward Spine",
+    "rating": 5,
+    "type": "weapon",
+    "class": "Polearm",
+    "src": "skyward-spine.png"
+  },
+  {
+    "name": "Skyward Pride",
+    "rating": 5,
+    "type": "weapon",
+    "class": "Claymore",
+    "src": "skyward-pride.png"
+  },
+  {
+    "name": "Skyward Blade",
+    "rating": 5,
+    "type": "weapon",
+    "class": "Sword",
+    "src": "skyward-blade.png"
+  },
+  {
+    "name": "Aquila Favonia",
+    "rating": 5,
+    "type": "weapon",
+    "class": "Sword",
+    "src": "aquila-favonia.png"
+  },
+  {
+    "name": "Sacrificial Bow",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Bow",
+    "isFeatured": true,
+    "src": "sacrificial-bow.png"
+  },
+  {
+    "name": "Sacrificial Fragments",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Catalyst",
+    "isFeatured": true,
+    "src": "sacrificial-fragments.png"
+  },
+  {
+    "name": "Dragon's Bane",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Polearm",
+    "isFeatured": true,
+    "src": "dragons-bane.png"
+  },
+  {
+    "name": "Sacrificial Greatsword",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Sword",
+    "isFeatured": true,
+    "src": "sacrificial-greatsword.png"
+  },
+  {
+    "name": "Sacrificial Sword",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Sword",
+    "isFeatured": true,
+    "src": "sacrificial-sword.png"
+  },
+  {
+    "name": "Sucrose",
+    "element": "Anemo",
+    "type": "character",
+    "rating": 4,
+    "id": "749031457019658401",
+    "src": "Sucrose.png"
+  },
+  {
+    "name": "Chongyun",
+    "element": "Cryo",
+    "type": "character",
+    "rating": 4,
+    "id": "749031361934917682",
+    "src": "Chongyun.png"
+  },
+  {
+    "name": "Noelle",
+    "element": "Geo",
+    "type": "character",
+    "rating": 4,
+    "id": "749031431132545057",
+    "src": "Noelle.png"
+  },
+  {
+    "name": "Bennett",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031351533043772",
+    "src": "Bennett.png"
+  },
+  {
+    "name": "Fischl",
+    "element": "Electro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031374052393120",
+    "src": "Fischl.png"
+  },
+  {
+    "name": "Ningguang",
+    "element": "Electro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031423905759253",
+    "src": "Ningguang.png"
+  },
+  {
+    "name": "Xingqiu",
+    "element": "Hydro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031483263680563",
+    "src": "Xingqiu.png"
+  },
+  {
+    "name": "Beidou",
+    "element": "Electro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031334273613904",
+    "src": "Beidou.png"
+  },
+  {
+    "name": "Xiangling",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031470726905977",
+    "src": "Xiangling.png"
+  },
+  {
+    "name": "Razor",
+    "element": "Electro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031449864306719",
+    "src": "Razor.png"
+  },
+  {
+    "name": "Barbara",
+    "element": "Hydro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031327726174398",
+    "src": "Barbara.png"
+  },
+  {
+    "name": "Rust",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Bow",
+    "src": "rust.png"
+  },
+  {
+    "name": "The Stringless",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Bow",
+    "src": "the-stringless.png"
+  },
+  {
+    "name": "Favonius Warbow",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Bow",
+    "src": "favonius-warbow.png"
+  },
+  {
+    "name": "Eye of Perception",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Catalyst",
+    "src": "eye-of-perception.png"
+  },
+  {
+    "name": "The Widsith",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Catalyst",
+    "src": "the-widsith.png"
+  },
+  {
+    "name": "Favonius Codex",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Catalyst",
+    "src": "favonius-codex.png"
+  },
+  {
+    "name": "Favonius Lance",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Lance",
+    "src": "favonius-lance.png"
+  },
+  {
+    "name": "Rainslasher",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Claymore",
+    "src": "rainslasher.png"
+  },
+  {
+    "name": "The Bell",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Claymore",
+    "src": "the-bell.png"
+  },
+  {
+    "name": "Favonius Greatsword",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Claymore",
+    "src": "favonius-greatsword.png"
+  },
+  {
+    "name": "Lions Roar",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Sword",
+    "src": "lions-roar.png"
+  },
+  {
+    "name": "The Flute",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Sword",
+    "src": "the-flute.png"
+  },
+  {
+    "name": "Favonius Sword",
+    "rating": 4,
+    "type": "weapon",
+    "class": "Sword",
+    "src": "favonius-sword.png"
+  },
+  {
+    "name": "Slingshot",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Bow",
+    "src": "slingshot.png"
+  },
+  {
+    "name": "Sharpshooter's Oath",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Bow",
+    "src": "sharpshooters-oath.png"
+  },
+  {
+    "name": "Raven Bow",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Bow",
+    "src": "raven-bow.png"
+  },
+  {
+    "name": "Emerald Orb",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Catalyst",
+    "src": "emerald-orb.png"
+  },
+  {
+    "name": "Thrilling Tales of Dragon Slayers",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Catalyst",
+    "src": "thrilling-tales-of-dragon-slayers.png"
+  },
+  {
+    "name": "Magic Guide",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Catalyst",
+    "src": "magic-guide.png"
+  },
+  {
+    "name": "Black Tassel",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Polearm",
+    "src": "black-tassel.png"
+  },
+  {
+    "name": "Debate Club",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Claymore",
+    "src": "debate-club.png"
+  },
+  {
+    "name": "Bloodtainted Greatsword",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Claymore",
+    "src": "bloodtainted-greatsword.png"
+  },
+  {
+    "name": "Ferrous Shadow",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Claymore",
+    "src": "ferrous-shadow.png"
+  },
+  {
+    "name": "Skyrider Sword",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Sword",
+    "src": "skyrider-sword.png"
+  },
+  {
+    "name": "Harbinger of Dawn",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Sword",
+    "src": "harbinger-of-dawn.png"
+  },
+  {
+    "name": "Cool Steel",
+    "rating": 3,
+    "type": "weapon",
+    "class": "Sword",
+    "src": "cool-steel.png"
+  }
+]
